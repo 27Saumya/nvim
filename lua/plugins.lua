@@ -25,7 +25,7 @@ return require('packer').startup(function(use)
 	  }
 
 	-- Visuals
-	use { "catppuccin/nvim", as = "catppuccin" }
+	use "navarasu/onedark.nvim"
 
 	use {
 		'nvim-lualine/lualine.nvim',

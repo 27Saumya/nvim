@@ -4,7 +4,7 @@ My Neovim config (Inspired from [Yash's neovim config](https://github.com/yxshv/
 
 > Note: This is currently optimized for python (more languages support soon!)
 
-![](https://i.imgur.com/SQKXn73.png)
+![](https://i.imgur.com/lYbm4AX.png)
 
 ## Usage
 
@@ -41,7 +41,7 @@ Inside `neovim`
 - Telescope File Browser - https://github.com/nvim-telescope/telescope-file-browser.nvim
 - bufferline.nvim - https://github.com/akinsho/bufferline.nvim
 - vim-floaterm - https://github.com/voldikss/vim-floaterm
-- catppuccin - https://github.com/catppuccin/nvim
+- onedark.nvim - https://github.com/navarasu/onedark.nvim
 - Lualine.nvim - https://github.com/nvim-lualine/lualine.nvim
 - nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter
 - nvim-lspconfig - https://github.com/neovim/nvim-lspconfig
