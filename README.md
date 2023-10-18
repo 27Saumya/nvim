@@ -2,8 +2,6 @@
 
 My Neovim config (Inspired from [Yash's neovim config](https://github.com/yxshv/nvim))
 
-> Note: This is currently optimized for python (more languages support soon!)
-
 ![](https://i.imgur.com/lYbm4AX.png)
 
 ## Usage
